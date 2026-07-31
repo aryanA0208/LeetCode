@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/aryanA0208/LeetCode/tree/master/0100-same-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/aryanA0208/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+## Array
+|  |
+| ------- |
+| [0213-house-robber-ii](https://github.com/aryanA0208/LeetCode/tree/master/0213-house-robber-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0213-house-robber-ii](https://github.com/aryanA0208/LeetCode/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
